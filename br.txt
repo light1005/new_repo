@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This file belongs to new brnach
+=======
+This si my new file for branch
+>>>>>>> new_branch
