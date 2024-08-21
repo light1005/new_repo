@@ -1,3 +1,3 @@
-def welcome(){
-   echo " Welcome to GIt hub"
+def welcome(name){
+   echo " HI $(name)Welcome to GIt hub"
 }
