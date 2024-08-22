@@ -1,3 +1,3 @@
 def call(name){
-   echo " Welcome to GIt hub $(name)"
+   echo " Welcome to GIt hub ${name}"
 }
