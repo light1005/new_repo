@@ -1,3 +1,3 @@
-def welcome(){
+def call(){
    echo " Welcome to GIt hub"
 }
